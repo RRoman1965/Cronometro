@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cronometro", "Cronometro\Cronometro.csproj", "{C32664AF-0BC5-4BFC-AD15-64E9DF3235AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro.Test", "Cronometro.Test\Cronometro.Test.csproj", "{8167D71D-1B55-4536-8ADE-1DA9FF56F4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32664AF-0BC5-4BFC-AD15-64E9DF3235AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32664AF-0BC5-4BFC-AD15-64E9DF3235AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32664AF-0BC5-4BFC-AD15-64E9DF3235AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32664AF-0BC5-4BFC-AD15-64E9DF3235AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8167D71D-1B55-4536-8ADE-1DA9FF56F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8167D71D-1B55-4536-8ADE-1DA9FF56F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8167D71D-1B55-4536-8ADE-1DA9FF56F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8167D71D-1B55-4536-8ADE-1DA9FF56F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8E989B-5C5C-477E-B006-10DD0D3711CE}
+	EndGlobalSection
+EndGlobal
